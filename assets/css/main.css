@@ -2918,7 +2918,7 @@ body.is-touch .tiles article .content {
 /* Header */
 
 #header {
-  padding: 8em 0 0.1em 0;
+  padding: 1em 0 0.1em 0;
 }
 
 #header .logo {
@@ -2944,8 +2944,8 @@ body.is-touch .tiles article .content {
 
 #header .logo .symbol img {
   display: block;
-  width: 2em;
-  height: 2em;
+  width: 12em;
+  height: 12em;
 }
 
 #header nav {
